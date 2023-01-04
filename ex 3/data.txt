@@ -1,0 +1,12 @@
+NATURAL LANGUAGE PROCESSING LAB
+Generally, Analysing the business match and win likelihood of prospects is time
+consuming and prone to be less efficient with just relying on human analysis. Artificial 
+Intelligence can help with Natural Language Processing. The project titled “Sales Engagement 
+and Enrichment using Natural Language Processing” aims at providing a solution to the problem 
+stated above by automating the process of engaging the customers' mails using the Natural 
+Language Processing.
+The objective is to build a Product called “OxoBrain”, designed to make the sales 
+representative focus more on sales rather than other distracting manual tasks. Automating the 
+manual tasks of a sales representative saves a lot of time and allows them to focus more on sales. 
+As this is an internal product, the users of this product are the employees of the organization 
+itself.
